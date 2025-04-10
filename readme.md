@@ -44,3 +44,6 @@
 - `git push` : Permet d'envoyer en ligne l'ensemble des commits disponibles en local
 - `git push -u origin <branch>` : Lors du premier push sur sur une branche, il faut spécifier sur quelle branche on doit push.
 - `git pull` : Permet de récupérer les commits distants en local
+
+
+coucou c'est moi
