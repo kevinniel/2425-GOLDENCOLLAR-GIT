@@ -15,7 +15,7 @@
 - `git commit -m "message"` : permet de réaliser la sauvegarde du dernier état d'indexation
 - `git log` : permet de voir l'historique des commits
 
-## Commandes de base pour travailler à _distance_
+## Travailler à _distance_
 
 ### Github
 
@@ -37,11 +37,10 @@
 
 ![XXX](images/4.png "XXX")
 
+5. Suivez les instructions disponibles sur github, pour savoir quoi faire
 
-
-
-
-#### Commandes
-
-- `git push` : 
-- `git pull` : 
+#### Commandes de base
+- `git remote add origin REPO_URL` : permet de relier votre repo local à votre repo distant
+- `git push` : Permet d'envoyer en ligne l'ensemble des commits disponibles en local
+- `git push -u origin <branch>` : Lors du premier push sur sur une branche, il faut spécifier sur quelle branche on doit push.
+- `git pull` : Permet de récupérer les commits distants en local
