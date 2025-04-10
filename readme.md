@@ -6,6 +6,7 @@
 - Tout ce qui est indexé est destiné à être sauvegardé !
 - A chaque fois que vous avez réalisé une avancée, vous **DEVEZ** commit
 - Pour travailler à distance, il faut un repo distant avec lequel communiquer. C'est ce que vous créez sur github ou gitlab.
+- Un **conflit** est un cas de figure où git ne sait pas gérer les modifications apportées à un même fichier. Vous devrez donc gérer ce que vous gardez ou non vous-même, et refaire un `add, commit, push` pour que les modifications soient prises en compte !
 
 ## Commandes de base pour travailler en _local_
 
@@ -44,8 +45,3 @@
 - `git push` : Permet d'envoyer en ligne l'ensemble des commits disponibles en local
 - `git push -u origin <branch>` : Lors du premier push sur sur une branche, il faut spécifier sur quelle branche on doit push.
 - `git pull` : Permet de récupérer les commits distants en local
-
-
-coucou c'est moi kévin
-
-ajouter la ligne de fin du TP2
