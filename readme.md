@@ -4,6 +4,7 @@
 
 - Un repository (repo) est un dossier dans lequel on travaille avec GIT, et donc qui contient un dossier `.git`
 - Tout ce qui est indexé est destiné à être sauvegardé !
+- A chaque fois que vous avez réalisé une avancée, vous **DEVEZ** commit
 
 ## Commandes de base
 
