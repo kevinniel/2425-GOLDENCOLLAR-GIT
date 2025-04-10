@@ -18,3 +18,14 @@
 - ajouter un fichier "readme.md" & le push en ligne
 - modifier depuis github le fichier readme.md en ajoutant une ligne de texte de votre choix et sauvegarder
 - ajouter une ligne en local dans votre readme et la push
+
+## TP 3
+
+- Chef de projet : Mohand
+- Le chef de projet va devoir créer un repo sur github
+- Il va devoir inviter l'ensemble de son équipe à travailler avec lui sur le même repo (settings -> collaborateurs)
+- Tous les collaborateurs doivent récupérer le repo distant en local en utilisant `git clone`
+- Le chef de projet va créer un fichier "readme.md", et le push
+- Tous les collaborateurs doivent le récupérer avec un pull
+- Chaque collaborateur devra ajouter une ligne dans le readme, avec son prénom, et son age.
+- Chaque collaborateur devra push ses modifications
