@@ -46,6 +46,6 @@
 - `git pull` : Permet de récupérer les commits distants en local
 
 
-coucou c'est moi
+coucou c'est moi kévin
 
 ajouter la ligne de fin du TP2
