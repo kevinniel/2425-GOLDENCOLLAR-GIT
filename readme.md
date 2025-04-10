@@ -10,9 +10,9 @@
 - `git status` : permet de savoir où on en est dans le workfow GIT
 - `git add <fichier>` : permet d'indexer un `<fichier>`. Astuce, pour tout indexer, remplacer `<fichier>` par `.`
 - `git commit -m "message"` : permet de réaliser la sauvegarde du dernier état d'indexation
-- `git log` : 
+- `git log` : permet de voir l'historique des commits
 
-
+atatatatatatatt
 
 
 
