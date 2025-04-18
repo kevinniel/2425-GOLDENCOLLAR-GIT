@@ -34,20 +34,22 @@
 
 ![XXX](images/3.png "XXX")
 
-4. vous arrivez sur une page comme celle-ci : 
+4. vous arrivez sur une page comme celle-ci :
 
 ![XXX](images/4.png "XXX")
 
 5. Suivez les instructions disponibles sur github, pour savoir quoi faire
 
 #### Commandes de base
+
 - `git remote add origin REPO_URL` : permet de relier votre repo local à votre repo distant
 - `git push` : Permet d'envoyer en ligne l'ensemble des commits disponibles en local
 - `git push -u origin <branch>` : Lors du premier push sur sur une branche, il faut spécifier sur quelle branche on doit push.
 - `git pull` : Permet de récupérer les commits distants en local
 
-
 ## Travailler avec les _branches_
+
 - `git branch` : Permet de voir la liste des branches et savoir sur laquelle on est
 - `git branch <nom_de_la_branche>` : Crée un branche
 - `git checkout <nom_de_la_branche>` : Change la branche courante
+- `git merge <nom_de_la_branche>` : Permet de fusionner la branche `nom_de_la_branche` avec la branche courante
