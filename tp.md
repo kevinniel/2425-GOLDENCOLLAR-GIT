@@ -49,3 +49,16 @@
 - Effectuez des modifications sur le repo forké
 - Contribuez au repo original en créant une pull Request
 - Validez la/les PR(s) des autres sur votre repo
+
+## TP 6
+
+- A faire en individuel - chacun de votre côté
+- Créer nouveau un repo Github et le cloner en local
+- ajouter un fichier readme.md et y placer du contenu. Push le résultat en ligne.
+- Créer une milestone "abcd"
+- Créer une issue "toto", se l'affecter, et la mettre dans la milestone "abcd"
+- Créer une issue "tata", se l'affecter, et la mettre dans la milestone "abcd"
+- Créer un fichier "toto.txt" et clore l'issue "toto" avec un message dans le commit
+- Créer un fichier "tata.txt" et clore l'issue "toto" avec un message dans le commit
+
+A la fin, vous devriez avoir 1 milestone complétée à 100%, et 2 issues fermés par un numéro de commit.
