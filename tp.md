@@ -36,8 +36,8 @@
 - Créer nouveau un repo Github et le cloner en local
 - ajouter un fichier readme.md et y placer du contenu. Push le résultat en ligne.
 - Créer une branche "toto" et se positionner dessus.
-- Créer un fichier "toto.txt" et mettre du contenu dedans. Pusl le résultat en ligne.
+- Créer un fichier "toto.txt" et mettre du contenu dedans. Push le résultat en ligne.
 - Créer une branche "tata" et se positionner dessus.
-- Créer un fichier "tata.txt" et mettre du contenu dedans. Pusl le résultat en ligne.
+- Créer un fichier "tata.txt" et mettre du contenu dedans. Push le résultat en ligne.
 - Fusionner le contenu des branches "toto" et "tata" sur la branche principale.
   ⚠️ la branche principale peut s'appeler "main" ou "master" : vérifiez bien !
