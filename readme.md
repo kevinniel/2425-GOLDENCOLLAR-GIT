@@ -48,12 +48,18 @@
 - `git pull` : Permet de récupérer les commits distants en local
 
 ## Travailler avec les _branches_
+
 - `git branch` : Permet de voir la liste des branches et savoir sur laquelle on est
 - `git branch <nom_de_la_branche>` : Crée un branche
 - `git checkout <nom_de_la_branche>` : Change la branche courante
 - `git merge <nom_de_la_branche>` : Permet de fusionner la branche `nom_de_la_branche` avec la branche courante
 
 ## Travailler sur les _fork_
+
 - Permet de créer un repo distant à partir d'un autre, qui ne nous appartien pas. Se fait directement depuis github.
 - `Sync fork` est le bouton qui me permet de synchroniser mon dépôt forké avec le dépôt original
 - `Contribute` permet de créer une `Pull Request (ou Merge Request)` et de proposer au dépôt original d'intégrer le travail que j'ai réalisé.
+
+## Travailler en étant _organisé_
+
+- Une `issue` est un "ticket" qu'il faut traiter. C'est comme une demande client.
