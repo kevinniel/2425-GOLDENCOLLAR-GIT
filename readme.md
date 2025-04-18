@@ -64,3 +64,4 @@
 
 - Une `issue` est un "ticket" qu'il faut traiter. C'est comme une demande client.
 - Une `Milestone` est un regroupement d'`issues`
+- Pour fermer une issue avec un commit : commencez par le mot-clé `fix`, suivi du numéro de l'issue (ex : `fix #1`)
