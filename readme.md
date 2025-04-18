@@ -63,3 +63,4 @@
 ## Travailler en étant _organisé_
 
 - Une `issue` est un "ticket" qu'il faut traiter. C'est comme une demande client.
+- Une `Milestone` est un regroupement d'`issues`
