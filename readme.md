@@ -50,3 +50,4 @@
 ## Travailler avec les _branches_
 - `git branch` : Permet de voir la liste des branches et savoir sur laquelle on est
 - `git branch <nom_de_la_branche>` : Crée un branche
+- `git checkout <nom_de_la_branche>` : Change la branche courante
