@@ -41,3 +41,11 @@
 - Créer un fichier "tata.txt" et mettre du contenu dedans. Push le résultat en ligne.
 - Fusionner le contenu des branches "toto" et "tata" sur la branche principale.
   ⚠️ la branche principale peut s'appeler "main" ou "master" : vérifiez bien !
+
+## TP 5
+
+- Créez un repository sur github
+- Vous devez ensuite forker le repo d'un de vos camarade
+- Effectuez des modifications sur le repo forké
+- Contribuez au repo original en créant une pull Request
+- Validez la/les PR(s) des autres sur votre repo
