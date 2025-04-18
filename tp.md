@@ -4,12 +4,12 @@
 
 - créer un dossier sur votre machine
 - Le transformer en repository
-- Créer 5 commits, avec dans l'ordre les actions à mener : 
-    - créer un fichier "toto.txt"
-    - ajouter le mot "toto" dans le fichier
-    - ajouter le mot "tata" dans le fichier
-    - renommer le fichier en "tata.txt"
-    - supprimer le mot "toto" dans le fichier
+- Créer 5 commits, avec dans l'ordre les actions à mener :
+  - créer un fichier "toto.txt"
+  - ajouter le mot "toto" dans le fichier
+  - ajouter le mot "tata" dans le fichier
+  - renommer le fichier en "tata.txt"
+  - supprimer le mot "toto" dans le fichier
 
 ## TP 2
 
@@ -29,3 +29,15 @@
 - Tous les collaborateurs doivent le récupérer avec un pull
 - Chaque collaborateur devra ajouter une ligne dans le readme, avec son prénom, et son age.
 - Chaque collaborateur devra push ses modifications
+
+## TP 4
+
+- A faire en individuel - chacun de votre côté
+- Créer nouveau un repo Github et le cloner en local
+- ajouter un fichier readme.md et y placer du contenu. Push le résultat en ligne.
+- Créer une branche "toto" et se positionner dessus.
+- Créer un fichier "toto.txt" et mettre du contenu dedans. Pusl le résultat en ligne.
+- Créer une branche "tata" et se positionner dessus.
+- Créer un fichier "tata.txt" et mettre du contenu dedans. Pusl le résultat en ligne.
+- Fusionner le contenu des branches "toto" et "tata" sur la branche principale.
+  ⚠️ la branche principale peut s'appeler "main" ou "master" : vérifiez bien !
