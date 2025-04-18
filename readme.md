@@ -46,3 +46,7 @@
 - `git push -u origin <branch>` : Lors du premier push sur sur une branche, il faut spécifier sur quelle branche on doit push.
 - `git pull` : Permet de récupérer les commits distants en local
 
+
+## Travailler avec les _branches_
+- `git branch` : Permet de voir la liste des branches et savoir sur laquelle on est
+- `git branch <nom_de_la_branche>` : Crée un branche
